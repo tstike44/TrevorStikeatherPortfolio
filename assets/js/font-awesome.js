@@ -1,0 +1,1 @@
+"https://kit.fontawesome.com/9573685655.js"
